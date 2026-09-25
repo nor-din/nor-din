@@ -63,9 +63,10 @@ A systems programmer focused on deep-diving into machine mechanics, algorithm op
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="35" /> Global Telemetry
 
-## LeetCode
+## 🧑‍💻 LeetCode
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-tDFHVcrvOn-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/tDFHVcrvOn/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/tDFHVcrvOn?theme=dark&font=baloo)](https://leetcode.com/u/tDFHVcrvOn/)
+
 
 
 <br>
