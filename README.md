@@ -22,7 +22,7 @@
 
 ## About Me
 
-<img align="right" src="https://animesher.com/orig/2/203/2038/20386/animesher.com_zack-anime-boy-angel-of-slaughter-2038687.gif" width="280" alt="Coding animation" />
+<img align="right" src="https://i.pinimg.com/originals/e9/81/63/e981636e0ff8cd5a14b7eb595069dc92.gif" width="280" alt="Coding animation" />
 
 I’m a developer focused on AI-powered systems, intelligent applications, and practical software engineering. I enjoy building projects that combine machine learning, retrieval systems, and modern tools to solve real-world problems.
 
