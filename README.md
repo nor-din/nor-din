@@ -22,7 +22,7 @@
 
 ## About Me
 
-<img align="right" src="https://media1.tenor.com/m/thhH3RGdIhUAAAAC/uh-oh-smile.gif" width="280" alt="Coding animation" />
+<img align="right" src="https://media1.tenor.com/m/thhH3RGdIhUAAAAC/uh-oh-smile.gif" width="380" alt="Coding animation" />
 
 I’m a developer focused on AI-powered systems, intelligent applications, and practical software engineering. I enjoy building projects that combine machine learning, retrieval systems, and modern tools to solve real-world problems.
 
