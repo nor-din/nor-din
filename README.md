@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/nor-din">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=900&color=00A3FF&center=true&vCenter=true&width=700&lines=Student+%40+1337+Khouribga;AI+Engineer;Python+%7C+RAG+%7C+Docker;Building+intelligent+systems;Exploring+LLM+applications" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=900&color=00A3FF&center=true&vCenter=true&width=700&lines=Student+%40+1337+Khouribga" alt="Typing animation" />
   </a>
 </div>
 
