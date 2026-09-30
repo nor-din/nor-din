@@ -8,9 +8,6 @@
   </a>
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nor-din&style=flat-square&color=00A3FF&label=PROFILE+VIEWS" alt="Profile views" />
-</p>
 
 <p align="center">
   <a href="https://profile.intra.42.fr/users/nodoulah">
